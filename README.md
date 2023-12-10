@@ -8,3 +8,7 @@ All notifications, such as loan repayment reminders, payment confirmations, and 
 
 ## FLOW
 ![bg](https://github.com/Tanmaydeep-Singh/loanzdaap-ETHIndia/assets/92568870/f37ff4a9-6a49-4742-a133-b524d2c6ac38)
+
+
+## USER INTERFACE
+![image](https://github.com/Tanmaydeep-Singh/loanzdaap-ETHIndia/assets/92568870/2bac4f43-e454-44f6-b02e-959bde9d0115)
