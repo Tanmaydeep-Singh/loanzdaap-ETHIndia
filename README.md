@@ -1,11 +1,9 @@
 # *LOANZDAPP* 
-This is a decentralized application for righteous loan validation.
-Deployment of all loan grants and transactions such as loan repayment and updation are encrypted and transferred through nft's.
-Loan grants are done through anonymous decentralized voting done by group of authorized validators.
-The validators are differentiated from a loan borrower through a special nft which is only minted for them and works as a blue tick for validators.
-The user can also pay their loan through any currency (s)he wants to, providing cross-chain tokens transfer.
-The users are authenticated by zkevm zero knowledge proof validation protocols thus providing an extra layer of security for their accounts.
-All notifications (such as loan repayment reminder, payment successful, loan passed/rejected) are managed through push-protocol for flutter dapp.
+This is an application that operates on a decentralized system for validating loans. All grant disbursements and transactions, including loan repayments and updates, are encrypted and transferred through non-fungible tokens (NFTs). 
+Loan grants are approved through anonymous decentralized voting by a group of authorized validators. Validators are identified by a special NFT that works as a blue tick for them, distinguishing them from loan borrowers. 
+Users are free to pay their loans using any currency they prefer, thanks to cross-chain token transfers. 
+User authentication is performed by using ZK-EVM zero-knowledge proof validation protocols, providing an additional security layer for their accounts. 
+All notifications, such as loan repayment reminders, payment confirmations, and loan approval/rejection notices, are managed through a push-protocol for Flutter Dapp.
 
 
 ## FLOW
