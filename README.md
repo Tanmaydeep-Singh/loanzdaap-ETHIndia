@@ -1,4 +1,5 @@
-# *LOANZDAPP* 
+# *LOANZDAPP*  
+
 ○ This is an application that operates on a decentralized system for validating loans. All grant disbursements and transactions, including loan repayments and updates, are encrypted and transferred through non-fungible tokens (NFTs). 
 
 ○ Loan grants are approved through anonymous decentralized voting by a group of authorized validators. Validators are identified by a special NFT that works as a blue tick for them, distinguishing them from loan borrowers. 
